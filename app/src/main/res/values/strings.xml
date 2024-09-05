@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UseOfSpinner</string>
+    <string name="SeekButton">Find Games</string>
+    <string-array name="GameSpinner">
+        <item>Action Category</item>
+        <item>Racing Category</item>
+        <item>Role Playing Category</item>
+    </string-array>
+    <string name="GamesTextView">No options selected</string>
+</resources>
